@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\cfan\OneDrive\Documents\MikroC32\ClickerMZ\Blink\Clicker1_Blink.mcp32
+Project1=MZ1024EFH_BL_200.mcp32
+[ActiveProject]
+Index=1

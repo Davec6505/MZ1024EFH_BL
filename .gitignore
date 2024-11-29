@@ -1,0 +1,13 @@
+*.asm
+*.ini
+*.cp
+*.emcl
+*.bmk
+*.brk
+*.dbg
+*.dct
+*.dlt
+*.log
+*.lst
+*.dic
+
